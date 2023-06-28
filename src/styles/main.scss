@@ -38,6 +38,7 @@ body {
 .link-text {
     @include text(18px);
     color: $corTextoSecundario;
+    text-decoration: underline;
 }
 
 .title--big {
